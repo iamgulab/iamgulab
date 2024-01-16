@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/C5612AQErLJQyuT4h2Q/article-inline_image-shrink_400_744/0/1624597705774?e=2147483647&v=beta&t=CUqQ50dArmsbi9pZgeLdAfOFe8FCno8gLnsT8pGUI_w)
+![MasterHead](https://media.licdn.com/dms/image/C5612AQErLJQyuT4h2Q/article-inline_image-shrink_400_744/0/1624597705774?e=2147483647&v=beta&t=CUqQ50dArmsbi9pZgeLdAfOFe8FCno8gLnsT8pGUI_w)
 
 <h1 align="center">Hi 👋, I'm Gulab</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
